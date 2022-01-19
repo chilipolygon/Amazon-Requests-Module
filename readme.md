@@ -10,3 +10,7 @@ How to run
 6. Run `main.py` 
 
 If you have any further question, contact me on Discord: chili#9999
+
+
+<img src="https://i.imgur.com/2LSnLH9.png">
+<img src="https://i.imgur.com/8F5WaPw.png">
